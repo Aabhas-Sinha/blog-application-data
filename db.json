@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "aabhas",
+      "password": "password",
+      "favorites": [
+        1
+      ]
+    },
+    {
+      "id": 2,
+      "username": "himanshu",
+      "password": "password",
+      "favorites": [
+        2
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "title": "aléatoire total",
+      "body": "Nulla efficitur efficitur velit quis tempus. Praesent quis nisi urna. Cras euismod consequat tortor vel fringilla. Ut a leo condimentum, eleifend nulla et, placerat lectus. Donec efficitur mi sed risus tristique dictum. Cras aliquam lorem felis, vel pharetra arcu suscipit nec. Etiam id ante pretium nisl fringilla malesuada at rutrum diam. Mauris pellentesque dictum turpis eget congue. Mauris sed condimentum mauris, vitae aliquam tellus. In vitae augue aliquam, laoreet magna nec, venenatis sem. Etiam et tincidunt nibh. Fusce varius at quam semper iaculis. Aenean tristique neque fermentum arcu luctus tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin vel feugiat mi.",
+      "author": "1",
+      "authorName": "aabhas",
+      "id": 1
+    },
+    {
+      "title": "Lorem Ipsum",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi pharetra dignissim turpis sit amet molestie. Mauris molestie tortor aliquet mauris maximus facilisis. Etiam luctus nec ante non tincidunt. Maecenas in odio ac dui semper condimentum. Sed non mi arcu. Morbi molestie magna felis, in congue metus congue in. Donec pharetra leo massa, et ornare tellus malesuada mollis. Nullam et felis eu elit auctor efficitur et vitae metus. Fusce lobortis nulla risus, id elementum tellus gravida pellentesque. Nam sit amet lectus lacus. Sed quis accumsan risus, et convallis nisl. Integer elementum, mi ac hendrerit commodo, enim enim aliquam ex, sed pharetra elit orci eget dolor.",
+      "author": "2",
+      "authorName": "himanshu",
+      "id": 2
+    },
+    {
+      "title": "Pubg",
+      "body": "PlayerUnknown's Battlegrounds has over 2 billion hours in just half an year.",
+		"author": "1",
+		"authorName": "aabhas",
+      "id": 1
+    },
+    
+    {
+      "title": "Lorem Ipsum",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "author": 2,
+      "authorName": "himanshu",
+      "id": 4
+    }
+  ]
+}
